@@ -1,0 +1,301 @@
+strand,gwa,verbal,numerical,abstract,spelling,usage,program,acad_status,soft_skills,hard_skills
+HUMSS,94,2,2,2,3,1,Information Technology,Irregular,Patience,Programming
+TVL,90,2,2,2,2,2,Information Technology,Irregular,Critical thinking,Data analysis
+GAS,89,2,1,3,2,2,Information Technology,Regular,Computer Technician,Programming
+TVL,96,1,1,2,2,1,Information Technology,Regular,Organized,Critical thinking
+STEM,91,2,2,2,2,2,Information Technology,Irregular,Logical thinking,Data analysis
+TVL,85,2,2,2,2,2,Information Technology,Irregular,Communication,Programming
+GAS,88,2,2,2,2,2,Information Technology,Irregular,Connection,Data analysis
+STEM,89,2,2,2,3,3,Information Technology,Irregular,Communication,Database management
+STEM,90,2,2,2,1,2,Information Technology,Regular,Communication,Programming and Scripting Language
+HUMSS,89,2,2,2,2,1,Information Technology,Irregular,Resilience,Data analysis
+STEM,92,2,1,2,3,2,Information Technology,Regular,Interpersonal,Data analysis
+STEM,89,2,2,2,2,2,Information Technology,Regular,Programming,Programming
+TVL,94,1,1,1,1,1,Information Technology,Regular,Communication,UI/UX Design
+STEM,90,2,1,2,3,2,Information Technology,Regular,Communication,Graphic design
+STEM,92,2,1,1,2,2,Information Technology,Regular,Communication,Graphic design
+GAS,91,2,2,1,2,3,Information Technology,Regular,Problem solving,Coding
+STEM,95,2,2,2,3,2,Information Technology,Regular,Creativity,Graphic design
+GAS,95,2,2,2,2,1,Information Technology,Regular,Problem solving,Programming
+STEM,94,1,2,1,2,2,Information Technology,Regular,Communication,Technical proficiency
+TVL,94,2,2,2,2,2,Information Technology,Regular,Communication,Data analysis
+GAS,95,2,2,2,2,2,Information Technology,Irregular,Communication,UI/UX Design
+HUMSS,90,2,2,2,2,2,Information Technology,Irregular,Critical thinking,Data analysis
+STEM,90,2,2,2,2,2,Information Technology,Irregular,Critical thinking,Graphic design
+STEM,90,2,2,1,3,2,Information Technology,Irregular,Critical thinking,Graphic design
+STEM,90,2,1,2,2,2,Information Technology,Irregular,Communication,Graphic design
+GAS,88,2,1,2,3,3,Information Technology,Irregular,Communication,Data analysis
+STEM,93,2,2,2,2,2,Information Technology,Regular,Critical thinking,Data analysis
+STEM,83,2,2,2,2,2,Computer Science,Regular,Critical thinking,Programming
+STEM,90,3,2,3,3,2,Computer Science,Regular,Time management,Programming
+STEM,94,2,2,2,2,2,Computer Science,Regular,Critical thinking,Graphic design
+GAS,89,2,2,2,2,2,Computer Science,Regular,Critical thinking,Programming
+ICT,94,2,2,2,3,2,Computer Science,Regular,Creativity,Data analysis
+STEM,94,2,2,2,2,2,Computer Science,Regular,Time management,Data analysis
+HUMSS,95,2,1,2,3,2,Computer Science,Irregular,Critical thinking,Programming
+STEM,90,2,1,2,2,2,Computer Science,Irregular,Critical thinking,Equipment operation
+STEM,96,3,3,3,3,3,Computer Science,Regular,Analytical,Programming
+TVL,94,2,2,3,2,2,Computer Science,Regular,Problem solving,Coding
+STEM,85,1,1,1,1,1,Computer Science,Irregular,Coding,Machine learning
+TVL,94,2,2,2,2,2,Computer Science,Irregular,Creativity,Coding
+STEM,90,2,2,2,2,2,Computer Science,Irregular,Communication,Coding
+TVL,96,1,2,1,2,2,Computer Science,Regular,Resilience,Operating systems
+STEM,98,1,1,2,2,2,Computer Science,Regular,Problem solving,Coding
+STEM,96,2,2,2,2,3,Computer Science,Regular,Communication,Debugging
+STEM,92,2,1,2,2,2,Computer Science,Regular,Responsible,Programming
+STEM,90,3,3,3,3,3,Computer Science,Regular,Critical thinking,Programming
+STEM,85,2,2,2,2,2,Computer Science,Regular,Time management,Data analysis
+STEM,93,2,3,3,3,2,Computer Science,Regular,Communication,Programming
+TVL,90,2,2,1,3,2,Computer Science,Regular,Creativity,Graphic design
+GAS,85,2,2,2,2,2,Computer Science,Irregular,Creativity,Coding
+TVL,90,2,2,2,3,2,Computer Science,Irregular,Cooperative,Graphic design
+TVL,84,2,2,1,1,3,Computer Science,Irregular,Communication,UI design
+TVL,87,2,2,2,2,2,Computer Science,Irregular,Communication,Programming
+GAS,94,1,2,2,1,2,Computer Science,Regular,Adaptability,Graphic design
+TVL,96,2,3,1,3,2,Computer Science,Irregular,Problem solving,Programming
+STEM,86,2,2,1,1,2,Computer Science,Regular,Critical thinking,Data analysis
+STEM,95,3,3,3,3,2,Computer Science,Regular,Problem solving,Programming
+ABM,90,3,2,2,2,3,Computer Science,Irregular,Creativity,System design
+HUMSS,88,2,2,2,2,2,Computer Science,Regular,Creativity,Programming
+STEM,92,2,3,3,3,2,Computer Science,Regular,Communication,Programming
+GAS,85,3,2,2,2,2,Computer Science,Irregular,Communication,Frontend developing
+STEM,96,1,2,1,2,2,Computer Science,Regular,Communication,Programming
+STEM,97,2,3,3,3,2,Computer Science,Regular,Analytical,Data analysis
+STEM,88,2,2,2,2,2,Computer Science,Irregular,Analytical,Programming
+STEM,85,3,3,3,3,3,Computer Science,Regular,Self motivation,Photography
+STEM,98,2,3,2,3,2,Computer Science,Regular,Consistency,Coding
+GAS,93,3,2,2,2,3,Computer Science,Irregular,Adaptability,Computer software knowledge
+GAS,90,1,2,2,2,1,Computer Science,Regular,Comprehension,IT fundamentals
+STEM,90,2,2,2,2,2,Computer Science,Regular,Communication,Programming
+TVL,96,2,2,2,3,2,Computer Science,Regular,Critical thinking,Data analysis
+STEM,95,2,2,2,3,2,Computer Science,Regular,Adaptability,Data analysis
+STEM,95,2,2,2,2,2,Computer Science,Regular,Communication,Data analysis
+STEM,89,2,2,2,2,2,Computer Science,Irregular,Problem solving,Data analysis
+TVL,89,3,1,2,2,2,Computer Science,Irregular,Hardwork,Data analysis
+STEM,93,2,3,2,2,2,Computer Science,Regular,Critical thinking,Core technical skill
+STEM,93,2,2,2,1,2,Computer Science,Irregular,Flexibility,Data analysis
+ICT,91,2,2,3,2,2,Computer Science,Irregular,Creativity,Graphic design
+ICT,91,2,2,1,2,2,Computer Science,Irregular,Communication,IT specialist
+GAS,89,3,2,2,2,3,Computer Science,Irregular,Creativity,Equipment operation
+GAS,85,3,3,2,2,2,Computer Science,Irregular,Time management,Graphic design
+HUMSS,95,2,2,3,1,1,Environmental Science,Regular,Creativity,Data analysis
+ICT,94,2,3,2,2,2,Environmental Science,Irregular,Time management,Graphic design
+STEM,93,2,1,1,2,2,Environmental Science,Regular,Critical thinking,Mapping
+STEM,95,1,2,1,2,1,Environmental Science,Regular,Critical thinking,Data analysis
+GAS,93,2,1,1,3,2,Environmental Science,Regular,Time management,Field work
+STEM,91,2,2,1,2,3,Environmental Science,Regular,Adaptability,Presentation skill
+GAS,87,1,1,1,2,2,Environmental Science,Regular,Communication,Data analysis
+TVL,89,2,1,2,2,2,Environmental Science,Regular,Communication,Data analysis
+GAS,87,3,1,3,2,2,Environmental Science,Regular,Critical thinking,Mapping
+STEM,93,2,1,2,3,2,Marine Biology,Regular,Assessive thinking,Swimming
+HUMSS,95,2,2,2,2,2,Marine Biology,Regular,Critical thinking,Species identification
+STEM,96,3,2,2,3,3,Marine Biology,Regular,Critical thinking,Research
+GAS,92,2,2,2,2,2,Marine Biology,Regular,Cooperative,Diving
+STEM,95,2,3,3,2,1,Marine Biology,Regular,Critical thinking,Species identification
+GAS,91,3,2,3,2,2,Marine Biology,Regular,Patience,Research
+HUMSS,93,1,1,1,2,1,Marine Biology,Irregular,Communication,Species identification
+Maritime,80,2,2,2,2,2,Marine Biology,Regular,Self awareness,Diving
+STEM,92,2,2,2,2,1,Marine Biology,Regular,Communication,Swimming
+HUMSS,89,2,1,2,2,2,Marine Biology,Regular,Critical thinking,Swimming
+STEM,90,1,1,3,2,2,Marine Biology,Regular,Creativity,Graphic design
+HUMSS,95,2,2,3,2,3,Marine Biology,Regular,Resourcefull,Swimming
+HUMSS,91,2,2,2,2,2,Medical Biology,Regular,Communication,Data analysis
+GAS,89,2,2,2,2,2,Medical Biology,Regular,Time management,Computer literate
+STEM,95,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Research
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Data analysis
+STEM,93,2,2,2,1,1,Medical Biology,Regular,Time management,Research
+IT,93,2,2,2,3,2,Medical Biology,Regular,Critical thinking,Data analysis
+STEM,95,2,2,1,3,2,Medical Biology,Regular,Memorization,Report writing
+STEM,90,2,2,1,3,2,Medical Biology,Regular,Critical thinking,Research
+GAS,92,2,2,2,2,2,Medical Biology,Irregular,Communication,Reporting
+STEM,96,2,3,3,3,3,Medical Biology,Regular,Comprehension,Mathematical proficiency
+STEM,93,3,2,2,3,3,Medical Biology,Irregular,Problem solving,Practical Medical skills
+STEM,90,2,2,2,2,2,Medical Biology,Irregular,Adaptability,Presentation skill
+STEM,92,2,2,2,1,1,Medical Biology,Regular,Adaptability,Laboratory techniques
+GAS,88,3,2,2,3,3,Medical Biology,Irregular,Adaptability,Research
+STEM,96,1,1,2,2,1,Medical Biology,Regular,Socialising,Laboratory techniques
+STEM,92,1,2,2,1,1,Medical Biology,Regular,Critical thinking,Analyzation
+STEM,79,3,2,2,3,3,Medical Biology,Regular,Free will,Data analysis
+ALS,80,2,1,2,3,3,Medical Biology,Regular,Adaptability,Research
+HUMSS,88,2,2,1,2,1,Medical Biology,Regular,Diligent,Analyzation
+STEM,91,3,3,3,2,3,Medical Biology,Regular,Communication,Microsoft office
+STEM,96,1,2,2,1,1,Environmental Science,Irregular,Time management,Data analysis
+STEM,89,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+GAS,98,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,91,2,1,1,2,2,Environmental Science,Regular,Communication,Field work
+GAS,98,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,90,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+STEM,89,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+STEM,93,2,2,2,2,2,Environmental Science,Regular,Critical thinking,Presentation skill
+STEM,95,1,2,2,1,1,Environmental Science,Irregular,Time management,Field work
+HUMSS,97,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,94,1,2,2,1,1,Environmental Science,Regular,Critical thinking,Field work
+STEM,90,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+STEM,91,2,1,1,2,2,Environmental Science,Regular,Communication,Field work
+STEM,95,1,2,2,1,1,Environmental Science,Irregular,Time management,Data analysis
+STEM,93,2,2,1,2,2,Environmental Science,Regular,Critical thinking,Presentation skill
+STEM,92,2,1,1,2,2,Environmental Science,Regular,Communication,Presentation skill
+HUMSS,97,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,90,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+STEM,96,1,2,2,1,1,Environmental Science,Irregular,Time management,Presentation skill
+GAS,98,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,95,1,2,2,1,1,Environmental Science,Irregular,Time management,Field work
+STEM,95,1,2,2,1,1,Environmental Science,Irregular,Time management,Field work
+STEM,94,1,2,2,1,1,Environmental Science,Regular,Critical thinking,Equipment operation
+STEM,89,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+GAS,98,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+HUMSS,97,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,93,2,2,2,2,2,Environmental Science,Regular,Critical thinking,Presentation skill
+STEM,89,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+STEM,91,2,1,1,2,2,Environmental Science,Regular,Communication,Field work
+STEM,94,1,2,2,1,1,Environmental Science,Regular,Critical thinking,Presentation skill
+STEM,92,2,1,1,2,2,Environmental Science,Regular,Communication,Presentation skill
+STEM,90,2,1,1,2,2,Environmental Science,Regular,Adaptability,Field work
+STEM,93,2,2,1,2,2,Environmental Science,Regular,Critical thinking,Presentation skill
+STEM,97,3,3,3,3,3,Environmental Science,Irregular,Collaborative,Data analysis
+STEM,94,2,2,2,2,2,Marine Biology,Regular,Critical thinking,Species identification
+GAS,93,3,3,3,3,1,Marine Biology,Regular,Creativity,Swimming
+HUMSS,96,1,1,3,1,1,Marine Biology,Irregular,Self awareness,Data analysis
+HUMSS,92,1,1,3,3,1,Marine Biology,Irregular,Assessive thinking,Data analysis
+HUMSS,97,1,1,1,1,3,Marine Biology,Irregular,Self awareness,Data analysis
+STEM,94,3,2,2,2,2,Marine Biology,Regular,Critical thinking,Swimming
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+GAS,89,3,3,3,3,1,Marine Biology,Regular,Assessive thinking,Data analysis
+HUMSS,98,1,1,1,1,3,Marine Biology,Irregular,Self awareness,Data analysis
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,90,3,2,3,2,2,Marine Biology,Regular,Critical thinking,Swimming
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+GAS,91,3,3,3,3,1,Marine Biology,Regular,Assessive thinking,Data analysis
+GAS,90,3,3,3,3,1,Marine Biology,Regular,Critical thinking,Swimming
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,94,2,2,2,2,2,Marine Biology,Regular,Critical thinking,Species identification
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,94,3,2,2,2,2,Marine Biology,Regular,Critical thinking,Swimming
+GAS,93,3,3,3,3,1,Marine Biology,Regular,Creativity,Swimming
+HUMSS,98,1,1,1,1,3,Marine Biology,Irregular,Self awareness,Data analysis
+GAS,89,1,3,3,3,1,Marine Biology,Regular,Assessive thinking,Data analysis
+GAS,93,3,3,3,3,1,Marine Biology,Regular,Creativity,Swimming
+HUMSS,97,1,1,1,1,3,Marine Biology,Irregular,Self awareness,Data analysis
+HUMSS,96,1,1,3,1,1,Marine Biology,Irregular,Self awareness,Data analysis
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+HUMSS,92,1,1,3,3,1,Marine Biology,Irregular,Assessive thinking,Data analysis
+GAS,91,3,3,3,3,1,Marine Biology,Regular,Assessive thinking,Data analysis
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+STEM,95,2,2,2,2,2,Marine Biology,Regular,Resourcefull,Species identification
+GAS,91,3,3,3,3,3,Marine Biology,Regular,Creativity,Swimming
+TVL,97,1,3,1,1,3,Information Technology,Irregular,Logical thinking,UI/UX Design
+TVL,95,1,3,1,2,2,Information Technology,Irregular,Communication,Programming
+STEM,91,2,2,2,2,2,Information Technology,Regular,Time management,Data analysis
+STEM,94,2,2,2,2,2,Information Technology,Regular,Communication,Programming
+STEM,93,2,2,2,2,2,Information Technology,Regular,Communication,Programming
+TVL,96,1,3,1,1,3,Information Technology,Irregular,Logical thinking,UI/UX Design
+STEM,90,2,2,2,2,2,Information Technology,Regular,Time management,Data analysis
+TVL,96,1,3,1,1,3,Information Technology,Irregular,Logical thinking,UI/UX Design
+STEM,90,2,2,2,2,2,Information Technology,Regular,Time management,Data analysis
+STEM,98,2,2,2,2,2,Information Technology,Regular,Time management,Data
+GAS,89,3,1,1,1,1,Information Technology,Irregular,Logical thinking,UI/UX Design
+STEM,91,2,2,2,2,2,Information Technology,Regular,Time management,Data analysis
+STEM,92,2,2,2,2,2,Information Technology,Regular,Communication,Programming
+TVL,95,1,3,1,2,3,Information Technology,Irregular,Logical thinking,UI/UX Design
+STEM,93,2,2,2,2,2,Information Technology,Regular,Communication,Programming
+STEM,94,1,3,1,2,2,Information Technology,Irregular,Communication,Programming
+TVL,97,3,1,1,1,1,Information Technology,Irregular,Logical thinking,UI/UX Design
+TVL,95,1,1,3,3,1,Information Technology,Irregular,Communication,Graphic design
+GAS,98,3,3,1,1,3,Information Technology,Irregular,Creativity,Web development 
+STEM,90,2,2,2,2,2,Information Technology,Regular,Critical thinking,Networking
+STEM,89,2,2,2,2,2,Information Technology,Regular,Critical thinking,Networking
+GAS,97,1,3,1,1,1,Information Technology,Irregular,Time management,Web development 
+STEM,91,2,2,2,2,2,Information Technology,Regular,Critical thinking,Networking
+TVL,97,1,3,3,1,1,Information Technology,Irregular,Time management,UI/UX Design
+STEM,94,2,2,2,3,1,Information Technology,Regular,Adaptability,Graphic design
+STEM,93,2,2,2,2,2,Information Technology,Regular,Problem solving,Programming
+STEM,92,2,2,2,2,2,Information Technology,Regular,Critical thinking,Programming
+STEM,90,2,2,2,2,2,Information Technology,Regular,Critical thinking,Networking
+TVL,96,1,1,3,3,1,Information Technology,Irregular,Communication,UI/UX Design
+STEM,93,2,2,2,3,2,Information Technology,Regular,Problem solving,Programming
+GAS,98,3,3,1,1,3,Information Technology,Irregular,Creativity,Web development 
+STEM,94,2,2,2,3,2,Information Technology,Regular,Adaptability,Graphic design
+TVL,95,2,1,2,3,1,Information Technology,Irregular,Adaptability,Graphic design
+STEM,92,2,2,2,2,2,Information Technology,Regular,Problem solving,Programming
+STEM,93,2,3,3,3,2,Computer Science,Regular,Problem solving,IT Fundamentals
+STEM,94,2,3,2,3,3,Computer Science,Irregular,Analytical,Programming
+STEM,92,3,2,3,2,2,Computer Science,Regular,Critical thinking,Data analysis
+TVL,95,1,1,2,1,3,Computer Science,Irregular,Communication,Equipment operation
+STEM,91,3,2,3,2,2,Computer Science,Regular,Critical thinking,Data analysis
+STEM,91,3,2,3,2,2,Computer Science,Regular,Critical thinking,Data analysis
+STEM,94,2,3,2,3,3,Computer Science,Irregular,Analytical,Computer software knowledge
+STEM,93,3,2,3,2,2,Computer Science,Regular,Problem solving,Data analysis
+STEM,92,3,2,3,2,2,Computer Science,Regular,Critical thinking,Data analysis
+GAS,95,2,3,2,3,3,Computer Science,Irregular,Communication,IT Fundamentals
+STEM,91,3,2,3,2,2,Computer Science,Regular,Critical thinking,Data analysis
+STEM,88,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,89,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Presentation skill
+GAS,95,1,3,2,2,1,Medical Biology,Regular,Critical thinking,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,96,3,3,1,1,1,Medical Biology,Regular,Memorization,Presentation skill
+STEM,88,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,96,3,3,1,1,3,Medical Biology,Regular,Memorization,Presentation skill
+TVL,94,3,1,3,3,3,Medical Biology,Irregular,Memorization,Report writing
+HUMSS,89,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Presentation skill
+GAS,95,1,3,2,2,1,Medical Biology,Regular,Critical thinking,Presentation skill
+TVL,93,3,1,3,3,3,Medical Biology,Irregular,Memorization,Presentation skill
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,90,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Practical Medical skills
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,90,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Practical Medical skills
+GAS,95,1,3,2,2,1,Medical Biology,Regular,Critical thinking,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+TVL,94,3,1,3,3,3,Medical Biology,Irregular,Memorization,Presentation skill
+GAS,96,3,3,1,1,3,Medical Biology,Regular,Memorization,Report writing
+STEM,88,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,95,1,3,2,2,1,Medical Biology,Regular,Critical thinking,Presentation skill
+TVL,93,3,1,3,3,3,Medical Biology,Irregular,Memorization,Presentation skill
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,89,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Presentation skill
+HUMSS,90,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,88,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,88,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,96,3,3,1,1,1,Medical Biology,Regular,Memorization,Presentation skill
+HUMSS,89,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Presentation skill
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,88,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Practical Medical skills
+HUMSS,92,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Report writing
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,90,3,3,2,2,1,Medical Biology,Regular,Memorization,Report writing
+TVL,96,3,1,3,3,3,Medical Biology,Irregular,Memorization,Presentation skill
+HUMSS,92,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Report writing
+GAS,95,3,3,1,1,3,Medical Biology,Regular,Memorization,Presentation skill
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,89,1,3,2,2,1,Medical Biology,Regular,Critical thinking,Practical Medical skills
+HUMSS,92,2,2,2,2,2,Medical Biology,Regular,Critical thinking,Report writing
+GAS,95,3,3,1,1,3,Medical Biology,Regular,Memorization,Presentation skill
+STEM,92,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,92,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Presentation skill
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+GAS,89,1,3,2,2,1,Medical Biology,Regular,Critical thinking,Presentation skill
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+HUMSS,88,1,2,2,2,2,Medical Biology,Regular,Critical thinking,Presentation skill
+GAS,90,3,3,2,2,1,Medical Biology,Regular,Memorization,Presentation skill
+TVL,96,3,1,3,3,3,Medical Biology,Irregular,Memorization,Presentation skill
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
+STEM,91,2,2,2,2,2,Medical Biology,Regular,Time management,Practical Medical skills
